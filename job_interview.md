@@ -5,7 +5,7 @@
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-bla bla bla
+Aplikasi ini bertujuan untuk memudahkan masyarakat untuk berpergian ataupun jalan-jalan didalam negeri maupun diluar negeri. Maka dengan aplikasi ini masyarakat bisa berpergian kapan ajah tanpa harus memesannya di agen-agen.
 
 ## 1.3. Branding
 
