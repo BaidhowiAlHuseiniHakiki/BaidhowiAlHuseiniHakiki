@@ -30,7 +30,8 @@ No 5.    TEKNOLOGI, LIBRARY, dan FRAMEWORK
             
 No 6.    DESAIN USER EXPERIENCE dan USER INTERFACE
             
-            
+            ![Screenshot (281)](https://github.com/BaidhowiAlHuseiniHakiki/BaidhowiAlHuseiniHakiki/assets/144520859/c7b8cd42-f51b-4cf3-a6e4-cc522a27c92b)
+
 
 No 7.    DEMONTRASI VIDEO
 
