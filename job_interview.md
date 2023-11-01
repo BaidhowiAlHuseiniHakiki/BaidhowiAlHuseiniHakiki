@@ -31,8 +31,39 @@ Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [htt
 
 ```mermaid
 erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
+    masyarakat ||--o{ pengaduan : membuat
+    masyarakat {
+        char nik
+        varchar nama
+        varchar username
+        varchar password
+        varchar telp
+    }
+    pengaduan ||--|{ petugas : terkirim
+    pengaduan {
+        bigint id_pengaduan
+        datetime tgl_pengaduan
+        char nik
+        text isi_laporan
+        varchar foto
+        enum status
+    }
+    petugas ||--|{ tanggapan : menanggapi
+    petugas {
+        bigint id_petugas
+        varchar nama_petugas
+        varchar username
+        varchar password
+        varchar telp
+        enum level
+    }
+    tanggapan {
+        bigint id_tanggapan
+        bigint id_pengaduan
+        datetime tgl_tanggapan
+        text tanggapan
+        bigint id_petugas
+}
 ```
 
 ## 4. Arsitektur Sistem
