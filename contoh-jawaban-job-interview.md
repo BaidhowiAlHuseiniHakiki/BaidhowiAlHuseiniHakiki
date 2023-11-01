@@ -1,6 +1,7 @@
 ## 1.1 Latar Belakang
 
-bla bla bla
+ Saya diprojek ini membuat aplikasi pemesanan tiket pesawat. Pemesanan Tiket adalah salah satu proses yang sering banyak orang lakukan sebelum melaksanakan perjalanan atau keberangkatan. Cara yang sering dilakukan para calon penumpang dalam melakukan pemesanan tiket adalah dengan cara memesan di aplikasi pemesanan tiket.
+        Pemesanan Tiket ini memudahkan seseorang untuk membeli atau memesan tiket secara online melalui handphone. Jadi seseorang tidak perlu lagi untuk ke agen travel.
 
 ## 1.2. Deksripsi Teknologi Informasi
 
