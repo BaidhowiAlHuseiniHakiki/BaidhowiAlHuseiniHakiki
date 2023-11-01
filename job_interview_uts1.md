@@ -29,7 +29,7 @@ No 5.    TEKNOLOGI, LIBRARY, dan FRAMEWORK
             Untuk teknologi saya menggunakan teknologi software yang bernama Visual Studio Code dan Figma
             
 No 6.    DESAIN USER EXPERIENCE dan USER INTERFACE
-            Tampilan Awal= 
+            
             
 
 No 7.    DEMONTRASI VIDEO
