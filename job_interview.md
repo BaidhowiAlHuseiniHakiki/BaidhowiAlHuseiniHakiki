@@ -8,23 +8,22 @@
 Aplikasi ini bertujuan untuk memudahkan masyarakat untuk berpergian ataupun jalan-jalan didalam negeri maupun diluar negeri. Maka dengan aplikasi ini masyarakat bisa berpergian kapan ajah tanpa harus memesannya di agen-agen.
 
 ## 1.3. Branding
- a. Merk: Pemesanan Tiket 
-        b. Tagline: "kamu mau melakukan perjalanan cepat? pesan di sini ajah."
-        c. Campaign: Silahkan untuk melakukan pemesanan tiket
-        d. Target User: 
-            * 12+
-            * Orang yang ingin melakukan perjalanan cepat sampai tanpa harus memesan tiket di agen-agen.
-        e. User experience theme:
-            * Sederhana
-            * Mudah
-            * Warna: dominan warna biru
-
-
+ - merk: Pemesanan Tiket
+ - Tagline: "kamu mau melakukan perjalanan cepat? pesan di sini ajh."
+ - Campaign: Silahkan untuk melakukan pemesanan tiket
+ - Target User:
+    -Usia: 12+
+    -Orang yang ingin melakukan perjalanan cepat sampai tanpa harus memesan tiket di agen.
+ -  User Experience Theme:
+    -Sederhana
+    -Mudah
+    -Warna: domain warna biru
+    
 ## 2. User Story
 
-bla | bla | bla | bla
+Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ---|---|---|---
-bla | bla | bla | ⭐⭐⭐⭐⭐
+Penguna | Melakukan perjalanan cepat | Bisa cepat sampai | ⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
