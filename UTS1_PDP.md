@@ -3,7 +3,7 @@
   <p> Game merupakan media hiburan yang dapat di gunakan untuk setiap orang dan dapat digunakan untuk menghilangan rasa jenuh. Dalam projek ini saya membuat game yang bernama Mencari Ruang Kelas. Jadi game ini adalah seseorang yang sedang mencari ruang kelas untuk dapat belajar di ruangan tersebut</p>
  
 ## 2. Deksripsi
-  Game "Mencari Ruang Kelas" ini merupakan game sederhana yang sangat seru dan menyenangkan. Game ini bercerita tentang seorang yang sedang mencari ruang kelas di suatu kampus untuk dapat belajar dan mencari ilmu. Saat seseorang berada di kampus, semua hal yang ia lakukan hanya mencari-cari ruang kelas untuk belajar. Inti dari game ini player dapat melakukan atau mencari ruangan yang dia tempati untuk belajar. Disarankan pada player untuk memainkan game sederhana ini agar tidak bosan.
+  Game "Mencari Ruang Kelas" ini merupakan game sederhana yang sangat seru dan menyenangkan. Game ini bercerita tentang seorang yang sedang mencari ruang kelas di suatu gedung untuk dapat belajar dan mencari ilmu. Pada Saat sedang diperjalanan untuk mencari kelas, ia dijegat oleh seekor anjing. Mau ga mau ia harus mencari jalan lain agar menemukan kelas untuk belajar, Dan pada akhir nya ia menemukan kelas tersebut. Inti dari game ini player dapat melakukan atau mencari kelas yang dia tempati untuk belajar. Game ini disarankan pada player untuk memainkan game sederhana ini agar tidak bosan.
 
 ## 3. Branding
 ### A. Nama/Merk Game :
@@ -30,9 +30,10 @@ Player | Menemukan kelas | Bisa belajar | ⭐⭐⭐⭐⭐
 ```mermaid
 flowchart TD
     A[Mulai] <-->B[Mencari ruang kelas]
-    B <--> C[ruang kelas ditemukan]
-    C <--> D[Masuk ke ruang kelas]
-    D <--> E[Permainan selesai]
+    B <--> C[Gangguan Di jegat anjing]
+    C <--> D[Mencari jalan lain]
+    D <--> E[ruang kelas ditemukan]
+    E <--> F[Permainan selesai]
 ```
 
 ## 7. Link demo game di youtube
