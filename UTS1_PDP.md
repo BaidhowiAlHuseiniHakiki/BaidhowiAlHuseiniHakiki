@@ -18,7 +18,7 @@ Mencari Ruang Kelas
 
 Sebagai | Saya Ingin Bisa | Sehingga | Prioritas
 ---|---|---|---
-PLayer | Bergerak ke mana-mana | Bisa mengeksplorasi kampus | ⭐⭐⭐⭐⭐
+Player | Bergerak ke mana-mana | Bisa mengeksplorasi kampus | ⭐⭐⭐⭐⭐
 Player | Menemukan kelas | Bisa belajar | ⭐⭐⭐⭐⭐
 
 ## 5. Desain User Interface
