@@ -31,7 +31,8 @@ Player | Menemukan kelas | Bisa belajar | ⭐⭐⭐⭐⭐
 flowchart TD
     A[Mulai] <-->B[Mencari ruang kelas]
     B <--> C[ruang kelas ditemukan]
-    C <--> D[Permainan selesai]
+    C <--> D[Masuk ke ruang kelas]
+    D <--> E[Permainan selesai]
 ```
 
 ## 7. Link demo game di youtube
@@ -44,14 +45,14 @@ flowchart TD
 
 ## 9. Game menerapkan prinsip-prinsip dasar pemrograman seperti
 
-    A. Variable
-    B. Data type
-    C. Operator
-    D. Boolean
-    E. Conditions: If / else / switch
-    F. Looping: while / for
-    G. Array
-    H. Method
-    I. Class
+   - Variable
+   - Data Type
+   - Operator
+   - Boolean
+   - Conditions: if / else / switch
+   - Looping: while / for
+   - Array
+   - Method
+   - Class
 
 
