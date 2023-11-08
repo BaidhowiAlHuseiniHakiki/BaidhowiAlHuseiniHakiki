@@ -13,7 +13,7 @@ Website ini bertujuan untuk memudahkan orang untuk membeli makanan dan minuman a
  - Target User:
     -Usia: 10 tahun ke atas
     -Orang yang ingin membeli makanan dan minuman tanpa harus keluar rumah.
- -  User Experience Theme:
+ - User Experience Theme:
     -Sederhana
     -Mudah
     
@@ -21,7 +21,9 @@ Website ini bertujuan untuk memudahkan orang untuk membeli makanan dan minuman a
 
 Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ---|---|---|---
-Penguna | Membeli makanan dan minuman | Bisa makan dan minum tanpa harus keluar rumah  | ⭐⭐⭐⭐⭐
+Penguna | Membeli makanan | Bisa makan tanpa harus keluar rumah  | ⭐⭐⭐⭐⭐
+Pengguna | Membeli Minuman | Bisa minum tanpa harus keluar rumah | ⭐⭐⭐⭐⭐
+Pengguna | Pemesanan cepat | Bisa memesan makanan dengan cepat  tanpa adanya antrian | ⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
