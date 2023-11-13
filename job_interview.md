@@ -30,11 +30,12 @@ Pengguna | Memesan hoodie | Bisa memakainya tanpa harus datang ke toko offline |
 erDiagram
     produk ||--o{ pengaduan : membuat
     produk {
-        char nik
-        varchar nama
-        varchar username
-        varchar password
-        varchar telp
+        char ID_produk
+        varchar nama_produk
+        varchar deskripsi
+        varchar harga
+        varchar stok
+        varchar category
     }
     pengaduan ||--|{ petugas : terkirim
     pengaduan {
