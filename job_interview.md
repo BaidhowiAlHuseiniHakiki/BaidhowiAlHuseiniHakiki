@@ -30,7 +30,7 @@ Pengguna | Memesan hoodie | Bisa memakainya tanpa harus datang ke toko offline |
 erDiagram
     pelanggan ||--o{ produk : membeli
     pelanggan {
-        char ID_pelanggan
+        bigint id_pelanggan
         varchar namadepan
         varchar namabelakang
         varchar email
@@ -39,7 +39,7 @@ erDiagram
     }
     produk ||--|{ pesanan : masuk
     produk {
-        bigint ID_produk
+        bigint id_produk
         varchar nama_produk
         varchar deskripsi
         varchar harga
@@ -47,21 +47,20 @@ erDiagram
         varchar category
         varchar stok
     }
-    pesanan ||--|{ pesanan : menanggapi
-    petugas {
-        bigint id_petugas
-        varchar nama_petugas
-        varchar username
-        varchar password
-        varchar telp
-        enum level
+    pesanan ||--|{ detailpesanan : melihat
+    pesanan {
+        bigint id_pesanan
+        bigint id_pelanggan
+        datetime tanggal_pesanan
+        varchar total_harga
+        enum status_pesanan
     }
-    tanggapan {
-        bigint id_tanggapan
-        bigint id_pengaduan
-        datetime tgl_tanggapan
-        text tanggapan
-        bigint id_petugas
+    detailpesanan {
+        bigint id_detail_pesanan
+        bigint id_pesanan
+        bigint id_produk
+        varchar jumlah
+        varchar subtotal
 }
 ```
 
