@@ -28,7 +28,7 @@ Pengguna | Memesan hoodie | Bisa memakainya tanpa harus datang ke toko offline |
 ## 3. Struktur Data
 ```mermaid
 erDiagram
-    pelanggan ||--o{  : membeli
+    pelanggan ||--o{ produk : membeli
     pelanggan {
         char ID_pelanggan
         varchar namadepan
@@ -37,7 +37,7 @@ erDiagram
         varchar password
         varchar telp
     }
-    produk ||--|{ pelanggan : masuk
+    produk ||--|{ pesanan : masuk
     produk {
         bigint ID_produk
         varchar nama_produk
