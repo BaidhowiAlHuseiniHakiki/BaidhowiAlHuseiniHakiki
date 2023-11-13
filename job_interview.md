@@ -37,7 +37,7 @@ erDiagram
         varchar password
         varchar telp
     }
-    produk ||--|{ produk : masuk
+    produk ||--|{ pelanggan : masuk
     produk {
         bigint ID_produk
         varchar nama_produk
