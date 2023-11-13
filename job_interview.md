@@ -21,9 +21,10 @@ Website ini bertujuan untuk memudahkan masyarakat untuk membeli pakaian agar tid
 
 Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ---|---|---|---
-Penguna | Memesan baju | Bisa memakainya tanpa harus datang ke toko offline | ⭐⭐⭐⭐⭐
-Pengguna | Memesan jaket | Bisa memakainya tanpa harus datang ke toko offline | ⭐⭐⭐⭐⭐
-Pengguna | Memesan hoodie | Bisa memakainya tanpa harus datang ke toko offline | ⭐⭐⭐⭐⭐
+Pelanggan | Memesan produk | Bisa membeli produk tersebut | ⭐⭐⭐⭐⭐
+pelanggan | Membeli produk | Bisa dipake saat dibeli | ⭐⭐⭐⭐⭐
+pelanggan | Mendaftar | Bisa membeli produk | ⭐⭐⭐⭐
+pelanggan | login | Bisa masuk ke halaman utama dan membeli produk | ⭐⭐⭐⭐
 
 ## 3. Struktur Data
 ```mermaid
