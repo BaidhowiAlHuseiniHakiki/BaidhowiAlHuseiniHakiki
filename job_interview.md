@@ -28,7 +28,7 @@ Pengguna | Memesan hoodie | Bisa memakainya tanpa harus datang ke toko offline |
 ## 3. Struktur Data
 ```mermaid
 erDiagram
-    masyarakat ||--o{ pengaduan : membuat
+    produk ||--o{ pengaduan : membuat
     masyarakat {
         char nik
         varchar nama
