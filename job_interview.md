@@ -28,7 +28,7 @@ Pengguna | Memesan hoodie | Bisa memakainya tanpa harus datang ke toko offline |
 ## 3. Struktur Data
 ```mermaid
 erDiagram
-    pelanggan ||--o{ produk : membeli
+    pelanggan ||--o{  : membeli
     pelanggan {
         char ID_pelanggan
         varchar namadepan
