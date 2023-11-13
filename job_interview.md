@@ -12,7 +12,7 @@ Website ini bertujuan untuk memudahkan masyarakat untuk membeli pakaian agar tid
  - Campaign: Silahkan untuk melakukan pembelian pakaian
  - Target User:
     -Usia: 10 tahun ke atas
-    -Orang yang ingin membeli pakaian tanpa harus datang ke toko offline.
+    -Orang yang ingin membeli produk pakaian tanpa harus datang ke toko offline.
  - User Experience Theme:
     -Sederhana
     -Mudah
@@ -23,8 +23,12 @@ Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ---|---|---|---
 Pelanggan | Memesan produk | Bisa membeli produk tersebut | ⭐⭐⭐⭐⭐
 pelanggan | Membeli produk | Bisa dipake saat dibeli | ⭐⭐⭐⭐⭐
+pelanggan | Mengetahui Size & Chart | Bisa memilih ukuran produk yang pas | ⭐⭐⭐⭐⭐
 pelanggan | Mendaftar | Bisa membeli produk | ⭐⭐⭐⭐
 pelanggan | login | Bisa masuk ke halaman utama dan membeli produk | ⭐⭐⭐⭐
+pelanggan | Mengetahui Tips & Trick | Bisa memilih produk agar tidak salah | ⭐⭐⭐⭐
+pelanggan | Melihat detail produk | Bisa melihat produk | ⭐⭐⭐
+
 
 ## 3. Struktur Data
 ```mermaid
@@ -77,19 +81,6 @@ flowchart TD
 Untuk teknologi saya menggunakan Visual Studio Code
 
 ## 6. Desain User Experience dan User Interface
-
-![image](https://github.com/BaidhowiAlHuseiniHakiki/BaidhowiAlHuseiniHakiki/assets/144520859/855de87b-de5e-4a78-bbe1-f42040abbf19)
-![image](https://github.com/BaidhowiAlHuseiniHakiki/BaidhowiAlHuseiniHakiki/assets/144520859/93746ded-124c-40d6-b7e3-e39af1ce5dc4)
-![image](https://github.com/BaidhowiAlHuseiniHakiki/BaidhowiAlHuseiniHakiki/assets/144520859/184dcd30-18a8-4be5-bc3a-e5e072fd40ae)
-![image](https://github.com/BaidhowiAlHuseiniHakiki/BaidhowiAlHuseiniHakiki/assets/144520859/6e23896c-1521-4254-ab65-4c6c0c5c123e)
-![image](https://github.com/BaidhowiAlHuseiniHakiki/BaidhowiAlHuseiniHakiki/assets/144520859/60316733-2040-4238-94d5-48d4da949c19)
-![image](https://github.com/BaidhowiAlHuseiniHakiki/BaidhowiAlHuseiniHakiki/assets/144520859/801a3f00-3754-41f3-9b77-aa9a130610c5)
-![image](https://github.com/BaidhowiAlHuseiniHakiki/BaidhowiAlHuseiniHakiki/assets/144520859/43859cd3-18dc-495c-8cc9-9918b2ccf021)
-![image](https://github.com/BaidhowiAlHuseiniHakiki/BaidhowiAlHuseiniHakiki/assets/144520859/24322ba1-78fe-4d13-aefe-1c7576d6add3)
-![image](https://github.com/BaidhowiAlHuseiniHakiki/BaidhowiAlHuseiniHakiki/assets/144520859/345d4761-973d-405a-8dbd-176e66353884)
-![image](https://github.com/BaidhowiAlHuseiniHakiki/BaidhowiAlHuseiniHakiki/assets/144520859/ea2e60e6-88d8-4686-815c-12cff3466578)
-![image](https://github.com/BaidhowiAlHuseiniHakiki/BaidhowiAlHuseiniHakiki/assets/144520859/8e88e3c4-ac85-4713-8490-1b679fb71739)
-![image](https://github.com/BaidhowiAlHuseiniHakiki/BaidhowiAlHuseiniHakiki/assets/144520859/4dd1c31b-9779-4d2b-a0ce-32b19c856d0d)
 
 
 
