@@ -29,7 +29,7 @@ Pengguna | Memesan hoodie | Bisa memakainya tanpa harus datang ke toko offline |
 ```mermaid
 erDiagram
     produk ||--o{ pengaduan : membuat
-    masyarakat {
+    produk {
         char nik
         varchar nama
         varchar username
