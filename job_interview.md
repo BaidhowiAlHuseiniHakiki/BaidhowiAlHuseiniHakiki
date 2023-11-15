@@ -23,13 +23,14 @@ Website ini bertujuan untuk memudahkan masyarakat untuk membeli pakaian agar tid
 
 Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ---|---|---|---
+Pelanggan | Mendaftar | Bisa membeli produk yang ingin di pesan | ⭐⭐⭐⭐⭐
+Pelanggan | Login | Bisa masuk ke halaman utama dan membeli produk | ⭐⭐⭐⭐⭐
+Pelanggan | Mencari produk | Bisa mengetahui produk apa ajah yang di jual | ⭐⭐⭐⭐⭐
 Pelanggan | Memesan produk | Bisa membeli produk tersebut | ⭐⭐⭐⭐⭐
-pelanggan | Membeli produk | Bisa dipake saat dibeli | ⭐⭐⭐⭐⭐
-pelanggan | Mengetahui Size & Chart | Bisa memilih ukuran produk yang pas | ⭐⭐⭐⭐⭐
-pelanggan | Mendaftar | Bisa membeli produk | ⭐⭐⭐⭐
-pelanggan | login | Bisa masuk ke halaman utama dan membeli produk | ⭐⭐⭐⭐
-pelanggan | Mengetahui Tips & Trick | Bisa memilih produk agar tidak salah | ⭐⭐⭐⭐
-pelanggan | Melihat detail produk | Bisa melihat produk yang sudah di pesan | ⭐⭐⭐
+Pelanggan | Membeli produk | Bisa dipake saat dibeli | ⭐⭐⭐⭐⭐
+Pelanggan | Mengetahui Size & Chart | Bisa memilih ukuran produk yang pas | ⭐⭐⭐⭐⭐
+Pelanggan | Mengetahui Tips & Trick | Bisa memilih produk agar tidak salah | ⭐⭐⭐⭐
+Pelanggan | Melihat detail produk | Bisa melihat produk yang sudah di pesan | ⭐⭐⭐
 
 
 ## 3. Struktur Data
