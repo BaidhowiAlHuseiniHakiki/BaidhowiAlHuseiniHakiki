@@ -96,17 +96,15 @@ flowchart TD
    - Sistem operasi Windows adalah sebuah program komputer yang mengatur semua sumber daya komputer dan menyediakan layanan kepada aplikasi yang berjalan di atasnya. Sistem operasi ini dikembangkan oleh perusahaan Microsoft dan dirilis pada tahun 1985 dengan nama Windows 1.0. Sejak saat itu, sistem operasi Windows terus berkembang dan menjadi salah satu sistem operasi paling populer di dunia.  Sistem operasi Windows dirancang untuk berjalan pada berbagai jenis perangkat keras, termasuk desktop, laptop, server, dan perangkat mobile. Windows menggunakan antarmuka pengguna grafis (GUI) yang memungkinkan pengguna untuk berinteraksi dengan komputer melalui ikon, tombol, dan menu visual, daripada menggunakan perintah teks seperti sistem operasi lain. Windows juga memiliki banyak fitur seperti kemampuan multitasking, yang memungkinkan beberapa aplikasi berjalan secara bersamaan, serta kemampuan plug-and-play yang memudahkan pengguna dalam menghubungkan perangkat tambahan seperti printer, scanner, dan kamera. 
 
 ## 6. Desain User Experience dan User Interface
-url Figma nya : https://www.figma.com/file/RO5AsJPWUQDULrktwPSZoZ/Baidhowi-Al-Huseini-Hakiki?type=design&node-id=0-1&mode=design&t=DQaYnYK1MXmvVV2s-0
+url Figma nya : https://www.figma.com/file/RO5AsJPWUQDULrktwPSZoZ/Baidhowi-Al-Huseini-Hakiki?type=design&node-id=0-1&mode=design&t=Q3f6WrBwib79TZx7-0
 
 ![image](https://github.com/BaidhowiAlHuseiniHakiki/BaidhowiAlHuseiniHakiki/assets/144520859/dfa44de0-69cb-4c79-a258-fde4aff4edba)
+![image](https://github.com/BaidhowiAlHuseiniHakiki/BaidhowiAlHuseiniHakiki/assets/144520859/a120243c-bacf-4e62-859c-07c5dbeb4fc1)
+![image](https://github.com/BaidhowiAlHuseiniHakiki/BaidhowiAlHuseiniHakiki/assets/144520859/d5360b92-fff6-498b-b0a9-01933f0412e9)
+![image](https://github.com/BaidhowiAlHuseiniHakiki/BaidhowiAlHuseiniHakiki/assets/144520859/7e74dca7-bb22-4570-a218-0cb55a42cff2)
 ![image](https://github.com/BaidhowiAlHuseiniHakiki/BaidhowiAlHuseiniHakiki/assets/144520859/e8fcca4e-7a62-4053-89b2-8ccfccd647b5)
 ![image](https://github.com/BaidhowiAlHuseiniHakiki/BaidhowiAlHuseiniHakiki/assets/144520859/68dcef1d-5e30-443f-9e3e-5d7a710e04a0)
 ![image](https://github.com/BaidhowiAlHuseiniHakiki/BaidhowiAlHuseiniHakiki/assets/144520859/1b30fc2a-9cf4-41bf-aa2f-4ecf5a73b82b)
-
-
-
-
-
 
 
 ## 7. Demonstrasi Video
