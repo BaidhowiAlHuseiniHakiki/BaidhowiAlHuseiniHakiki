@@ -14,6 +14,10 @@ Website ini bertujuan untuk memudahkan masyarakat untuk membeli pakaian agar tid
  - User Experience Theme:
     - Sederhana
     - Mudah
+    - Inspirasi Desain
+      
+      ![image](https://github.com/BaidhowiAlHuseiniHakiki/BaidhowiAlHuseiniHakiki/assets/144520859/86117f35-c1e6-4f00-b160-86a379dcf55c)
+
     
 ## 2. User Story
 
