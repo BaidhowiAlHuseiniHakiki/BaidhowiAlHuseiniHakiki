@@ -18,12 +18,18 @@ Mencari Kosan
 
 Sebagai | Saya Ingin Bisa | Sehingga | Prioritas
 ---|---|---|---
-Player | Berjalan menuju kosan | Bisa Berteduh | ⭐⭐⭐⭐⭐
-Player | Menemukan kosan | Bisa untuk beristirahat | ⭐⭐⭐⭐⭐
+Pengguna | Memulai permainan | Bisa Bermain | ⭐⭐⭐⭐⭐
+Pengguna | Mengarahkan Player untuk mencari kosan | Bisa menemukan kosan | ⭐⭐⭐⭐⭐
+Player | Berjalan menuju kosan | Bisa Berteduh dan beristirahat | ⭐⭐⭐⭐⭐
+Player | Menghindari seekor anjing | Bisa menemukan kosan | ⭐⭐⭐⭐
 Player | Menemukan jalan lain | Bisa terhindar dari kejaran seekor anjing | ⭐⭐⭐⭐
+Player | Menemukan kosan | Bisa untuk beristirahat | ⭐⭐⭐⭐⭐
+
 
 ## 5. Desain User Interface
-![image](https://github.com/BaidhowiAlHuseiniHakiki/BaidhowiAlHuseiniHakiki/assets/144520859/ebf096e2-5d76-424b-bdd9-322383520e19)
+https://www.figma.com/file/LNOMWR9T1boZuDXyCKeoK6/dowi-game-mencari-kosan?type=design&node-id=0-1&mode=design&t=zVyCFd8RaD85Pz1Z-0
+
+![image](https://github.com/BaidhowiAlHuseiniHakiki/BaidhowiAlHuseiniHakiki/assets/144520859/ad17d544-ba41-4376-a1f5-fdec1a774d5d)
 
 
 
