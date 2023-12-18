@@ -24,7 +24,7 @@ Player | Berjalan menuju kosan | Bisa Berteduh dan beristirahat | ⭐⭐⭐⭐�
 Player | Menghindari seekor anjing | Bisa menemukan kosan | ⭐⭐⭐⭐
 Player | Menemukan jalan lain | Bisa terhindar dari kejaran seekor anjing | ⭐⭐⭐⭐
 Player | Menemukan kosan | Bisa untuk beristirahat | ⭐⭐⭐⭐⭐
-
+Player | Menemukan kunci | Bisa untuk membuka pintu | ⭐⭐⭐⭐⭐
 
 ## 5. Desain User Interface
 https://www.figma.com/file/LNOMWR9T1boZuDXyCKeoK6/dowi-game-mencari-kosan?type=design&node-id=0-1&mode=design&t=zVyCFd8RaD85Pz1Z-0
