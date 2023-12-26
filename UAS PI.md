@@ -87,6 +87,23 @@ Interaktivitas halaman web : JavaScript
 Referensi []
 
 ### Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+{
+
+"nama" : "Baidhowi Al Huseini Hakiki",
+
+"nim" : "1237050101"
+
+"alamat" : "Jl.Desa Cipadung",
+
+"umur" : 17,
+
+"no_Hp" : "081382454174",
+
+"email" : "baidhowialhuseini27@gmail.com",
+
+"hobi" : ["main raket","bersepeda"]
+
+}
 
 
 ### Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
@@ -189,6 +206,7 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 ### Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+- https://drive.google.com/file/d/19o-KkutG4zk_iHXjiBom-WzoU-mCuBrg/view?usp=drivesdk
 
 
 ### Membangun Profil Github Page ⭐⭐⭐⭐⭐
@@ -198,3 +216,21 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 ### Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+saya telah membaca buku tentang dasar-dasar teknik informatika. saya mengambil beberapa inspirasi dari buku ini antara lain:
+- Pemahaman Mendalam tentang Teknologi
+Buku dasar teknik informatika membantu Anda memahami dasar-dasar teknologi, seperti konsep jaringan komputer, pemrograman, basis data, dan sistem operasi. Dengan pemahaman ini, Anda dapat memahami bagaimana teknologi bekerja secara fundamental.
+
+- Menemukan Passion
+Bisa saja Anda menemukan minat dan keahlian yang tidak Anda sadari sebelumnya. Mungkin saja Anda menemukan bahwa Anda lebih tertarik pada pemrograman, keamanan komputer, analisis data, atau desain antarmuka pengguna. Inspirasi bisa muncul dari menemukan area yang benar-benar Anda sukai.
+
+- Memahami Implikasi Etis dan Sosial
+Buku-buku ini juga membahas tentang implikasi etis dan sosial dari teknologi. Anda dapat menemukan inspirasi untuk menjelajahi bagaimana teknologi memengaruhi kehidupan sehari-hari, privasi, keamanan, dan lebih banyak lagi.
+
+- Kreativitas dalam Penerapan Teknologi
+Membaca tentang dasar-dasar teknik informatika dapat memicu kreativitas Anda dalam menerapkan teknologi. Mungkin Anda bisa menggabungkan beberapa konsep untuk menciptakan solusi baru atau aplikasi yang inovatif.
+
+- Peluang Karir dan Pengembangan Diri
+Buku dasar teknik informatika bisa membuka mata terhadap peluang karir yang ada di bidang teknologi informasi. Ini bisa menginspirasi Anda untuk mengembangkan keterampilan tertentu yang relevan dengan kebutuhan industri.
+
+Jadi, jangan hanya membaca sebagai kewajiban. Nikmati prosesnya dan biarkan inspirasi datang dari pemahaman yang kita dapatkan. Siapa tahu, membaca buku dasar-dasar teknik informatika bisa menjadi langkah awal yang luar biasa untuk perjalanan menarik dalam dunia teknologi
+  
