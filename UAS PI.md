@@ -1,6 +1,7 @@
-## Hello Informatics !
+ ## Hello Informatics !
 
 ### Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
+- https://drive.google.com/file/d/17xd_3vJYC8KJBotn8wHMnflFypOz1ZhG/view?usp=drivesdk
 
 
 ### Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
@@ -27,6 +28,7 @@ Referensi 1
 Referensi 1
 
 ### Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+- https://drive.google.com/file/d/18fd_xrPt_fXwGAL7MoI-4Nvh94HrIDOm/view?usp=drivesdk
 
 Referensi 1
 
@@ -152,12 +154,17 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 ### Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+- https://drive.google.com/file/d/19nmcx_Q1GkiZxNeZ0W7u3jEu3Ate6FAV/view?usp=drivesdk
+- https://drive.google.com/file/d/19kBMpzilR20eyYF61V7uHWa8uPL4WtYy/view?usp=drivesdk
+- https://drive.google.com/file/d/19duSzYx44U7FPtplqsDFN341P9JYln-w/view?usp=drivesdk
 
 
 ### Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
 
 ### Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+- https://drive.google.com/file/d/18fXlWVbH_mm7Yw7kDvMtpD0LdvZX5sxJ/view?usp=drivesdk
+- https://drive.google.com/file/d/18sxrwNFyp4GZHu9GQIbMxqFs3vjtKSwO/view?usp=drivesdk
 
 
 ### Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
