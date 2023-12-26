@@ -4,9 +4,11 @@
 
 
 ### Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+- https://drive.google.com/file/d/17nUA8yL2_mrxRfseDBNj-HM6AUq4kIpb/view?usp=drivesdk
 
 
 ### Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+- https://drive.google.com/file/d/17eVXXH4S5NhPB8s9U4r1p_-KEsspCn6L/view?usp=drivesdk
 
 
 ### Mencoba Console Sistem Operasi
@@ -19,6 +21,8 @@ Referensi 1
 
 
 ### Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
+- https://drive.google.com/file/d/17da7DHPxWvT-fRO7razz-sUjuriecTAj/view?usp=drivesdk
+
 
 Referensi 1
 
@@ -107,6 +111,7 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 ### Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+- https://drive.google.com/file/d/188f2TzlPc8Cah3BsbIDbauzWGhQHZ6WC/view?usp=drivesdk
 
 
 ### Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
@@ -134,6 +139,7 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 ### Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+- https://drive.google.com/file/d/188ChSjmdeNfe_3_K-AlkZcAijYAmrKPh/view?usp=drivesdk
 
 
 ### Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
