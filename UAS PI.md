@@ -15,14 +15,18 @@
 ### Mencoba Console Sistem Operasi
 
 ### Windows CMD [v] ⭐⭐⭐⭐
+- https://drive.google.com/file/d/1CDB8UcyqmVIskMFAP_erY-pWOt1clAgM/view?usp=drivesdk
 
 Referensi 1
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+- https://drive.google.com/file/d/1CDB8UcyqmVIskMFAP_erY-pWOt1clAgM/view?usp=drivesdk
 
 
 ### Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 - https://drive.google.com/file/d/17da7DHPxWvT-fRO7razz-sUjuriecTAj/view?usp=drivesdk
+- ![image](https://github.com/BaidhowiAlHuseiniHakiki/BaidhowiAlHuseiniHakiki/assets/144520859/cf8d3ca0-1d06-4dc1-bdea-c15dfb72e609)
+
 
 
 Referensi 1
@@ -33,12 +37,17 @@ Referensi 1
 Referensi 1
 
 ### Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
-
+![image](https://github.com/BaidhowiAlHuseiniHakiki/BaidhowiAlHuseiniHakiki/assets/144520859/c5289240-66f4-45d9-92b7-a2d5b78b27da)
+- Output dari program di atas sebagai berikut:
+- Array sebelum di urutkan 65, 32, 23, 14, 21, 10, 73
+- Array setelah di urutkan 10, 14, 21, 23, 32, 65, 73
 
 ### Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+- https://drive.google.com/file/d/1CTyjiyB5_XgzdaSKQ6FM8vZtKUrCA_WC/view?usp=drivesdk
 
 
 ### Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+- https://drive.google.com/file/d/1CKiqVC_lKdwqK91xPmWQq9cazXznsAGF/view?usp=drivesdk
 
 
 ### Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
@@ -87,23 +96,7 @@ Interaktivitas halaman web : JavaScript
 Referensi []
 
 ### Mencoba Pembuatan File JSON [v] ⭐⭐⭐
-{
-
-"nama" : "Baidhowi Al Huseini Hakiki",
-
-"nim" : "1237050101"
-
-"alamat" : "Jl.Desa Cipadung",
-
-"umur" : 17,
-
-"no_Hp" : "081382454174",
-
-"email" : "baidhowialhuseini27@gmail.com",
-
-"hobi" : ["main raket","bersepeda"]
-
-}
+- https://drive.google.com/file/d/1Cac1WC0BHaI_kpGw3cGNe3eIHd6kmf9m/view?usp=drivesdk
 
 
 ### Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
