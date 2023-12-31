@@ -76,6 +76,7 @@ Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokoped
 Referensi: 1
 
 ### Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
+- https://drive.google.com/file/d/1ClixSG1Y5I5ycScWcW6x0crD7942_YRY/view?usp=drivesdk
 
 Referensi terkait: 1 2
 
