@@ -108,6 +108,7 @@ url Figma nya : https://www.figma.com/file/RO5AsJPWUQDULrktwPSZoZ/Baidhowi-Al-Hu
 
 
 ## 7. Demonstrasi Video
+https://youtu.be/pU22voij5YU?feature=shared
 
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
