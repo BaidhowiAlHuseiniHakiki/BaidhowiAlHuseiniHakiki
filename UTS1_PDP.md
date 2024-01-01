@@ -50,7 +50,7 @@ flowchart TD
 
 ## 8. Link folder kode pemrograman dari game
 
-[In Progress]
+(https://github.com/BaidhowiAlHuseiniHakiki/BaidhowiAlHuseiniHakiki/blob/main/KodeGame.md)
 
 ## 9. Game menerapkan prinsip-prinsip dasar pemrograman seperti
 
