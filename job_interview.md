@@ -112,9 +112,28 @@ https://youtu.be/pU22voij5YU?feature=shared
 
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
+Mesin komputasi dan sistem operasi berperan penting dalam teknologi informasi atau website yang saya buat. Mesin komputasi menyediakan perangkat keras yang diperlukan untuk menjalankan program-program yang diperlukan untuk membuat dan mengelola website. Sistem operasi menyediakan lingkungan yang memungkinkan program-program tersebut untuk berjalan.
+
+Secara khusus, mesin komputasi menyediakan komponen-komponen berikut yang diperlukan:
+
+-  Prosesor: Prosesor adalah otak dari mesin komputasi. Ini bertanggung jawab untuk menjalankan program-program yang diperlukan untuk membuat dan mengelola website.
+-  Memori: Memori menyimpan data yang diperlukan untuk menjalankan program-program tersebut.
+-  Penyimpanan: Penyimpanan menyimpan kode dan data website.
+-  Kartu grafis: Kartu grafis bertanggung jawab untuk menampilkan halaman web di layar.
+
+di Sistem operasi juga menyediakan layanan-layanan yang akan membantu kita seperti:
+-  Manajemen file: Sistem operasi mengelola file-file yang disimpan di penyimpanan. Ini memungkinkan program-program untuk mengakses file-file tersebut dengan mudah.
+-  Manajemen memori: Sistem operasi mengelola memori yang tersedia di mesin komputasi. Ini memastikan bahwa program-program memiliki akses ke memori yang mereka butuhkan untuk berjalan.
+-  Manajemen proses: Sistem operasi mengelola proses-proses yang berjalan di mesin komputasi. Ini memastikan bahwa proses-proses tersebut berjalan dengan lancar dan tidak saling mengganggu.
+-  Keamanan: Sistem operasi menyediakan layanan keamanan yang melindungi website dari serangan.
+Selain itu, mesin komputasi dan sistem operasi juga berperan penting dalam proses pengembangan website. Mesin komputasi menyediakan lingkungan yang memungkinkan pengembang website untuk menulis kode dan mengujinya. Sistem operasi menyediakan alat-alat yang dapat digunakan oleh pengembang website untuk membuat website.
+
 
 
 ## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
+- Algoritma adalah metode atau langkah yang direncanakan secara tersusun dan berurutan untuk menyelesaikan atau memecahkan permasalahan dengan sebuah intruksi atau kegiatan. Algoritma sangat penting dalam pembuatan website karena berfungsi untuk digunakan bagaimana website bekerja.
+- Struktur data adalah cara menyimpan, mengambil, dan menyusun data. Struktur data memungkinkan data yang ada di komputer lebih mudah diakses dan diperbarui. Struktur data sangat penting dalam website yang saya buat, karena digunakan untuk menyimpan data.
+- Bahasa pemrograman adalah sebuah instruksi standar untuk memerintah komputer agar menjalankan fungsi tertentu. Bahasa pemrograman berperan penting dalam website yang saya buat, karena digunakan untuk menulis kode yang menentukan bagaimana website akan berfungsi. 
 
 
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
@@ -122,5 +141,10 @@ https://youtu.be/pU22voij5YU?feature=shared
 
 
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
-
+Database atau sistem basis data berperan penting dalam produk teknologi informasi. Database adalah kumpulan data yang saling berhubungan, yang disimpan secara terorganisir dan dapat diakses dengan mudah. Database digunakan untuk menyimpan data yang diperlukan untuk menjalankan website, seperti
+-  Data pelanggan: Data pelanggan meliputi id pelanggan, nama depan dan belakang, email, password, telepon.
+-  Data produk: Data produk meliputi id, nama, deskrisi, harga, foto, kategori, stok.
+-  Data pesanan: Data pesanan meliputi id pesanan dan pelanggan, yanggal pesanan, total harga, status pesanan.
+-  Data detail pesanan: Data detail pesanan meliputi id detail pesanan, id pesanan dan produk, jumlah, subtotal.
+Database memungkinkan website untuk menyimpan data ini secara efisien dan mudah diakses. Hal ini penting karena data tersebut diperlukan untuk berbagai fungsi website
 
