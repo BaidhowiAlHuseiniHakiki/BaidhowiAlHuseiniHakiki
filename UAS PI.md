@@ -121,6 +121,7 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 ### Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+- https://drive.google.com/file/d/1Daa3SscnRpsCYWgWgSWG9irTSVviZL0_/view?usp=drivesdk
 
 
 ### Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
@@ -142,6 +143,7 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 ### Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+- https://drive.google.com/file/d/1DHR831v2Zh_iZpcjdbhyXqCHXm3hhEW_/view?usp=drivesdk
 
 
 ### Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
@@ -172,6 +174,7 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 ### Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+- https://drive.google.com/file/d/1DG2PJO-KPAhUx9f9fV9Gx2LYvt_UsLNv/view?usp=drivesdk
 
 
 ### Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
@@ -181,6 +184,7 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 ### Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+- https://wordpress.com/post/dhowielhuseini.wordpress.com/81
 
 
 ### Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
@@ -197,6 +201,7 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 ### Membangun Profil Github Page ⭐⭐⭐⭐⭐
+- https://drive.google.com/file/d/1D90g4dowsRWbzeEPtkITdqOPI4mOylZJ/view?usp=drivesdk
 
 
 ### Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
