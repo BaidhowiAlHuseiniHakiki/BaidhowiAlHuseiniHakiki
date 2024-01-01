@@ -46,7 +46,7 @@ flowchart TD
 
 ## 7. Link demo game di youtube
 
-[In Progress]
+https://youtu.be/Hewn0ddmkAI?feature=shared
 
 ## 8. Link folder kode pemrograman dari game
 
