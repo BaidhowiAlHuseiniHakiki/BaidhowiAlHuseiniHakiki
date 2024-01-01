@@ -14,10 +14,9 @@
 
 ### Mencoba Console Sistem Operasi
 
-### Windows CMD [v] ⭐⭐⭐⭐
+#### Windows CMD [v] ⭐⭐⭐⭐
 - https://drive.google.com/file/d/1CDB8UcyqmVIskMFAP_erY-pWOt1clAgM/view?usp=drivesdk
 
-Referensi 1
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 - https://drive.google.com/file/d/1CDB8UcyqmVIskMFAP_erY-pWOt1clAgM/view?usp=drivesdk
@@ -28,13 +27,9 @@ Referensi 1
 - ![image](https://github.com/BaidhowiAlHuseiniHakiki/BaidhowiAlHuseiniHakiki/assets/144520859/cf8d3ca0-1d06-4dc1-bdea-c15dfb72e609)
 
 
-
-Referensi 1
-
 ### Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 - https://drive.google.com/file/d/18fd_xrPt_fXwGAL7MoI-4Nvh94HrIDOm/view?usp=drivesdk
 
-Referensi 1
 
 ### Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 ![image](https://github.com/BaidhowiAlHuseiniHakiki/BaidhowiAlHuseiniHakiki/assets/144520859/c5289240-66f4-45d9-92b7-a2d5b78b27da)
@@ -56,30 +51,20 @@ Referensi 1
 
 ### Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
-Referensi installer PostgreSQL
-Referensi tambahan 1
 
 ### Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
-Referensi installer Dbeaver
-Referensi 1
 
 ### Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 
 
-Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
-Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
-Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
-
 
 ### Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
-Referensi: 1
 
 ### Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 - https://drive.google.com/file/d/1ClixSG1Y5I5ycScWcW6x0crD7942_YRY/view?usp=drivesdk
 
-Referensi terkait: 1 2
 
 ### Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 - https://drive.google.com/file/d/1CxdSLDEsutoL50IAEF-lVdDnerrYpjBM/view?usp=drivesdk
@@ -87,7 +72,6 @@ Referensi terkait: 1 2
 
 ### Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
-Referensi []
 
 ### Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 - https://drive.google.com/file/d/1Cac1WC0BHaI_kpGw3cGNe3eIHd6kmf9m/view?usp=drivesdk
@@ -107,8 +91,6 @@ Referensi []
 
 ### Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 
-Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
-Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platform
 
 ### Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
