@@ -51,6 +51,7 @@ Referensi 1
 
 
 ### Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+- https://wordpress.com/post/dhowielhuseini.wordpress.com/72
 
 
 ### Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
@@ -81,15 +82,7 @@ Referensi: 1
 Referensi terkait: 1 2
 
 ### Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
-
-Referensi tutorial
-
-Isi konten halaman web : HTML
-
-Styling halaman web : CSS
-
-Interaktivitas halaman web : JavaScript
-
+- https://drive.google.com/file/d/1CxdSLDEsutoL50IAEF-lVdDnerrYpjBM/view?usp=drivesdk
 
 
 ### Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
