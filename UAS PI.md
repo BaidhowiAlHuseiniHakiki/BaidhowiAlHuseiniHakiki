@@ -50,6 +50,7 @@
 
 
 ### Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+- https://drive.google.com/file/d/1EIjVo9LZft-oIA1MIHmIKMKNI0iReuCp/view?usp=drivesdk
 
 
 ### Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
@@ -71,6 +72,7 @@
 
 
 ### Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
+- https://drive.google.com/file/d/1EF_IFY4ciqbZ3sv9ESNxqCrGjJJ9S8_u/view?usp=drivesdk
 
 
 ### Mencoba Pembuatan File JSON [v] ⭐⭐⭐
@@ -96,6 +98,7 @@
 
 
 ### Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+- https://drive.google.com/file/d/1EFZeeqNPaqP3gsTUWUCHH1CGKjMPDUTo/view?usp=drivesdk
 
 
 ### Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
