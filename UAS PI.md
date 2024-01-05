@@ -163,9 +163,11 @@
 
 
 ### Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+- https://drive.google.com/file/d/1G7lyaVJT7Tp6yce415JdWojSgPG6vYbh/view?usp=drivesdk
 
 
 ### Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
+- https://drive.google.com/file/d/1GUKhgkneB2G5efKpfepWWhE00uKXnaAP/view?usp=drivesdk
 
 
 ### Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
